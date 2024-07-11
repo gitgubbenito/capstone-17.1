@@ -10,8 +10,8 @@
 ------------------------
 **Precision and Recall Analysis**
 
-Model - Precision (%) - Recall (%)
-KNN - 73 - 41
-Logistic Regression - 67 - 49
-SVC - 63 - 56
-Decision Tree - 64 - 54
+Model - Precision (%) - Recall (%) </BR>
+KNN - 73 - 41 </BR>
+Logistic Regression - 67 - 49 </BR>
+SVC - 63 - 56 </BR>
+Decision Tree - 64 - 54 </BR>

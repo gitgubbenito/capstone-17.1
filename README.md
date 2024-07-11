@@ -1,5 +1,5 @@
 **On this notebook:**
-# We are trying to predict customer response (e.g., 'yes' or 'no' to a marketing offer) using ML predicting model
+# I am trying to predict customer response (e.g., 'yes' or 'no' to a marketing offer) using ML predicting model
 # I explored data visualization to understand relationships between features like age, job, balance, and the target variable 'y'.
 # I compared the performance of four machine learning models: KNeighborsClassifier, Logistic Regression, Support Vector Machine, and Decision Tree.
 # GridSearchCV was used for hyperparameter tuning to optimize each model for the 'roc_auc' metric.

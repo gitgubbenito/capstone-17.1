@@ -1,6 +1,3 @@
-# Model - Precision (%) - Recall (%)
-
-
 This python application using jupyter notebookm compares the results of k-nearest neighbors, logistic regression, decision trees, and support vector machines classification models using dataset related to the marketing of bank products over the telephone.
 
 The analysis leverages a telephone bank marketing dataset and evaluates four classification algorithms: K-Nearest Neighbors, Logistic Regression, Support Vector Machines, and Decision Trees. Model performance is assessed using metrics like precision-recall curves and confusion matrices to identify the model with the most accurate prediction capability.
